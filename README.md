@@ -5,6 +5,7 @@ Project Description
 • The game is interactive and allows two players to play on the same computer.  
 
 Objective
+
 • The main objective is to learn GUI development using Python.  
 • It helps in understanding game logic such as player turns, winning conditions, and draw situations.  
 • This is a beginner-friendly project for improving programming skills.  
